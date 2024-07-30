@@ -1,0 +1,6 @@
+
+DROP TABLE IF EXISTS Patients;
+
+DROP TABLE IF EXISTS Admins;
+
+DROP TYPE IF EXISTS patient_status;
