@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
       <header className="flex h-16 w-full items-center justify-center border-b-2 border-b-gray-500 text-black">
         <div className="absolute left-0 flex items-center justify-center pl-4">
-          <a href="https://github.com/sam-harri/csi3140-project2">
+          <a href="https://github.com/sam-harri/emergency_waitlist">
             <FaGithub size={24} />
           </a>
         </div>

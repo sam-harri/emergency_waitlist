@@ -5,8 +5,8 @@ This project is an emergency hospital waitlist management system. It consists of
 ## Hosted Project
 
 This projects database is hosted on AWS RDS, the REST API is hosted on Heroku, and the Next app is hosted on Vercel for your ease of correction
-You may visit this at https://blahblahblah.com
-Likewise, a copy my portfolio containing the project from this class is availible at https://blahblahblah.com  
+You may visit this at https://emergency-waitlist.vercel.app/
+Likewise, a copy my portfolio containing the project from this class is availible at https://temp.com  
 
 ## Running the Project Locally
 
