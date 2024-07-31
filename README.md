@@ -2,6 +2,8 @@
 
 This project is an emergency hospital waitlist management system. It consists of a server that provides an API and a client for user interaction.
 
+https://github.com/sam-harri/emergency_waitlist
+
 ## Hosted Project
 
 This projects database is hosted on AWS RDS, the REST API is hosted on Heroku, and the Next app is hosted on Vercel for your ease of correction
