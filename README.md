@@ -6,14 +6,15 @@ This project is an emergency hospital waitlist management system. It consists of
 
 This projects database is hosted on AWS RDS, the REST API is hosted on Heroku, and the Next app is hosted on Vercel for your ease of correction
 You may visit this at https://emergency-waitlist.vercel.app/
-Likewise, a copy my portfolio containing the project from this class is availible at https://temp.com  
+
+Likewise, a copy my portfolio containing the projects from this class is availible at https://sam-harri.github.io/csi3140_portfolio/ 
 
 ## Running the Project Locally
 
 ### Clone the Repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/sam-harri/emergency_waitlist
 ```
 
 ### Running the Server
@@ -24,7 +25,6 @@ git clone <repository_url>
     ```
 2. Create a `.env` file at the root of the server directory with the following content:
     ```plaintext
-    POSTGRES_USER=
     POSTGRES_DATABASE=
     POSTGRES_PORT=
     POSTGRES_PASSWORD=
